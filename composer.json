@@ -1,0 +1,20 @@
+{
+    "name": "igi/sypexgeo",
+    "type": "library",
+    "description": "PHP library Sypex Geo API (http://sypexgeo.net)",
+    "keywords": ["sxgeo", "sypex", "geoip"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Eugene Bazilenko",
+        "email": "iginikolaev@gmail.com",
+        "homepage": "https://github.com/iginikolaev"
+    }],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
