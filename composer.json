@@ -6,7 +6,6 @@
     "license": "MIT",
     "authors": [{
         "name": "Eugene Bazilenko",
-        "email": "",
         "homepage": "https://github.com/iginikolaev"
     }],
     "require": {
